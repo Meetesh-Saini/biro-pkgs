@@ -1,0 +1,4 @@
+version: "1.2.0"
+description: "test desc"
+readme_file_path: "/path/to/readme"
+authors: "sample 2 <sample2@test2.io>"
